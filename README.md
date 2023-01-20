@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Saoud ElTelawy, a junior front developer 👨‍💻</div>  
+### <div align="center">I'm Saoud ElTelawy, a Front End Developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [My Portfolio](https://saoudeltelawy.github.io/findsaoudeltelawy/).  
